@@ -1,0 +1,55 @@
+🔹 Variables
+Variables are containers used to store data like numbers, text, etc.
+
+Example: a = 5, name = "Atharva"
+
+🔹 Data Types
+Python has different data types:
+
+int → integers (e.g., 5)
+
+float → decimal numbers (e.g., 4.5)
+
+str → strings (e.g., "hello")
+
+🔹 Operators
+Arithmetic Operators:
+
++, -, *, /, % (modulus), ** (power)
+
+Used for mathematical operations.
+
+Comparison Operators:
+
+==, !=, >, <, >=, <=
+
+Used to compare values (returns True or False).
+
+Assignment Operator:
+
+= assigns a value.
+
++=, -=, etc., are shorthand to modify and assign values.
+
+🔹 Type Casting
+Converting one data type to another (e.g., int("10") → converts string "10" to integer 10).
+
+🔹 Input/Output
+input() is used to take user input (always as a string by default).
+
+print() is used to show output on the screen.
+
+🔹 Type Checking
+type() is used to check the data type of a variable.
+
+🔹 Comments
+Comments (#) are used to explain code. They are ignored by Python when running the program.
+
+🔹 Simple Programs (Assignments)
+Multiplication of two numbers
+
+Area of a square = side × side
+
+Average of two float numbers = (a + b) / 2
+
+Comparison: Check if a >= b returns True or False
