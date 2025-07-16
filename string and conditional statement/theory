@@ -1,0 +1,49 @@
+🔤 String Topics (Basics of Python Strings)
+Concatenation
+Joining two or more strings together into one.
+
+Length of String
+Counting how many characters are present in a string.
+
+Indexing
+Accessing individual characters of a string using position (starting from 0).
+
+Slicing
+Extracting a part (substring) from the string using a range of positions.
+
+String Functions
+Commonly used built-in functions for strings:
+
+capitalize() – Makes the first letter uppercase.
+
+replace() – Replaces a word/character with another.
+
+count() – Counts how many times a word/character appears.
+
+Assignment 1: Input & Length
+Taking user input and finding how many characters are in it.
+
+Assignment 2: Count Specific Character
+Finding how many times a particular character (like $) appears in a string.
+
+🔁 Conditional Statements (Decision Making in Python)
+If Statement
+Checks a condition; if it's true, it runs the block of code.
+
+If-Else Statement
+If the condition is true, one block runs; else another block runs.
+
+If-Elif-Else Ladder
+Multiple conditions checked one by one until one is true.
+
+Nested If Statements
+One if-statement inside another. Used for checking multiple levels of conditions.
+
+Assignment 3: Even or Odd
+Checks if a number is divisible by 2 (even) or not (odd).
+
+Assignment 4: Greatest of 3 Numbers
+Compares three numbers and finds which one is the largest.
+
+Assignment 5: Multiple of 7
+Checks if a number is divisible by 7.
