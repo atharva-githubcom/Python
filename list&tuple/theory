@@ -1,0 +1,85 @@
+📋 LIST in Python
+A list is a collection of items (numbers, words, etc.) that is ordered, changeable (mutable), and allows duplicate values.
+Lists are written with square brackets [].
+
+✅ Topics Covered in List:
+List Creation
+
+A list is created using square brackets: mark = [95, 45, 34, ...]
+
+Length of List
+
+len(list) tells how many items are in the list.
+
+Indexing in List
+
+You can access items using their index: list[0] gives the first item.
+
+🛠️ List Methods
+append()
+
+Adds an item to the end of the list.
+
+Example: list.append(32)
+
+sort()
+
+Arranges the list in ascending order.
+
+Use sort(reverse=True) for descending order.
+
+reverse()
+
+Reverses the order of elements in the list.
+
+insert(index, element)
+
+Adds an element at a specific position.
+
+remove(element)
+
+Removes the first occurrence of the element from the list.
+
+pop(index)
+
+Removes the element at a specific index.
+
+🔁 TUPLE in Python
+A tuple is like a list, but it is immutable (you cannot change it after creating it).
+Tuples are written with parentheses ().
+
+✅ Topics Covered in Tuple:
+Tuple Creation
+
+Example: a = (1, 2, 3)
+
+type()
+
+Tells the data type of the object.
+
+Example: type(a) → returns <class 'tuple'>
+
+index()
+
+Finds the position of the first occurrence of a value.
+
+count()
+
+Tells how many times a value appears in the tuple.
+
+📝 Assignments Summary:
+Assignment 1: Store Movies in List
+
+Take 3 inputs from the user and store them in a list using append().
+
+Assignment 2: Palindrome Check
+
+Check if a list reads the same forward and backward (e.g. [1,2,1] is a palindrome).
+
+Assignment 3: Count 'a' Grade in Tuple
+
+Use .count("a") to count how many students got "a" grade.
+
+Assignment 4: Sort Grades
+
+Use .sort() to sort list of grades alphabetically.
