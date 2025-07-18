@@ -1,0 +1,94 @@
+📘 DICTIONARY THEORY
+🔹 What is a Dictionary?
+A dictionary in Python stores data in key-value pairs.
+
+Example: "name": "Atharva" — here, name is the key and Atharva is the value.
+
+It is unordered, mutable, and does not allow duplicate keys.
+
+✅ Printing a Dictionary
+Shows all key-value pairs stored inside the dictionary.
+
+✅ Accessing a Specific Value
+Use dict["key"] to get the value of a particular key.
+
+✅ Adding Data to a Dictionary
+You can add new key-value pairs after the dictionary is created using dict["new_key"] = value.
+
+✅ Empty Dictionary
+Create using {} or dict() and add values later.
+
+✅ Nested Dictionary
+A dictionary inside another dictionary.
+
+Used to store more complex data, like scores of different subjects.
+
+📚 Dictionary Methods
+dict.keys()
+Returns all the keys in the dictionary.
+
+dict.values()
+Returns all the values in the dictionary.
+
+dict.get("key")
+Returns the value of the specified key.
+
+Safe method — won’t give an error if the key is missing.
+
+dict.update({})
+Adds or updates key-value pairs in the dictionary.
+
+📗 SET THEORY
+🔹 What is a Set?
+A set is an unordered collection of unique items.
+
+Duplicates are not allowed.
+
+Useful when you want to remove duplicates.
+
+✅ Creating a Set
+Use {} with comma-separated values.
+
+Empty set must be created with set(), not {} (that creates a dictionary).
+
+📚 Set Methods
+.add()
+Adds a single element to the set.
+
+.remove()
+Removes a specified element. Gives an error if not found.
+
+.clear()
+Removes all elements from the set.
+
+.pop()
+Removes a random element from the set.
+
+.union()
+Combines elements of two sets without duplication.
+
+.intersection()
+Returns elements common to both sets.
+
+📝 ASSIGNMENTS THEORY
+📌 Assignment 1:
+You can externally add key-value pairs to a dictionary after it's created.
+
+📌 Assignment 2:
+A dictionary can store lists or tuples as values.
+
+Useful when storing multiple items for one key (like hobbies or skills).
+
+📌 Assignment 3 (a):
+Using a set to store subjects removes duplicates.
+
+The length of the set gives the number of unique subjects = classrooms needed.
+
+📌 Assignment 3 (b):
+You can take input from the user and store it in a dictionary using .update().
+
+📌 Assignment 4:
+A Python set does not allow duplicates, and 9 and 9.0 are treated as equal.
+
+But storing them as different data types inside tuples (e.g., ("int", 9) and ("float", 9.0)) helps keep them distinct.
+
