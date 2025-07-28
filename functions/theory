@@ -1,0 +1,52 @@
+✅ 1. Function to Subtract Two Numbers
+Topic: Functions and Arithmetic Operators
+
+A function groups reusable code. Here, it subtracts b from a using -.
+
+Functions can return and print the result.
+
+✅ 2. Simple Function Call
+Topic: Function Definition and Calling
+
+You define a function using def, and run it using its name followed by ().
+
+✅ 3. Calculate Average of 3 Numbers
+Topic: Arithmetic and Averages
+
+Average is calculated by summing values and dividing by the number of values.
+
+(a + b + c)/3 gives average of 3 numbers.
+
+✅ 4. Length of a List
+Topic: Lists and Built-in Functions
+
+len() is used to find the total number of items in a list.
+
+✅ 5. Print List Elements in One Line
+Topic: Loops and Print Formatting
+
+for loop is used to access each element.
+
+print(..., end=" ") prints items in the same line with a space in between.
+
+✅ 6. Factorial of a Number
+Topic: Loops and Factorial Logic
+
+Factorial means multiplying all numbers from 1 to n.
+
+For example, 5! = 5×4×3×2×1 = 120.
+
+✅ 7. Dollar to INR Conversion
+Topic: Simple Calculation with Parameters
+
+You can multiply the dollar amount by the exchange rate to get INR.
+
+Useful in currency conversions using basic multiplication.
+
+✅ 8. Odd or Even Checker
+Topic: Conditional Statements and Modulo Operator
+
+% gives the remainder. If num % 2 == 0, it’s even; else it’s odd.
+
+Used to check number type (even/odd).
+
